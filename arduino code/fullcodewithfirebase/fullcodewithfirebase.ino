@@ -13,8 +13,8 @@
 #define WIFI_PASSWORD "mywolf123"
 
 // Firebase credentials
-#define FIREBASE_PROJECT_ID "sterss-gaurd"
-#define FIREBASE_API_KEY "AIzaSyAVCoWaCCn1TBUbWhVVHCpAvg1k662s8bc"
+#define FIREBASE_PROJECT_ID "project id"
+#define FIREBASE_API_KEY "api key"
 
 // Firestore collection path
 String collectionPath = "sensorData";
